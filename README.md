@@ -17,7 +17,7 @@ My barebones portfolio website.
 - Getting familiar with Gatsby by creating a small portfolio website.
 
 
-### 💻 Quick Setup
+## 💻 Quick Setup
 
 1) Make sure you have gatsby npm package
 ```shell
