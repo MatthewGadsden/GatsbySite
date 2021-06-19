@@ -25,6 +25,7 @@ npm install -g gatsby-cli
 ```
 2) Build website on local:
 ```shell
-gatsby 
+cd {location-of-project}
+gatsby develop
 ```
 3) Open Local Host (localhost:8000)
