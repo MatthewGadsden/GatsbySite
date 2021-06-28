@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/-Gatsby-%23663399"/>
   <img src="https://img.shields.io/badge/-React-%2355b9d5"/>
   <img src="https://img.shields.io/badge/-JavaScript-%23f5dd19"/>
+  <img src="https://img.shields.io/badge/-css-%23264ee4"/>
 </div>
 <h1 align="center">
   Gatsby Portfolio Site
